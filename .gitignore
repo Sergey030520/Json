@@ -1,3 +1,5 @@
 /.idea/
 /nlohmann_json/
 /cmake-build-debug/
+/include/
+readme.txt
